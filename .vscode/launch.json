@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/gmartinezarellano/Library/CloudStorage/OneDrive-TheUniversityofNottingham/Teaching/2025-2026/MMME_3085/SoftwareAssignment/ProjectPlanningAssignment_25_26/RobotWriter2025SkeletonCode",
+      "program": "/Users/gmartinezarellano/Library/CloudStorage/OneDrive-TheUniversityofNottingham/Teaching/2025-2026/MMME_3085/SoftwareAssignment/ProjectPlanningAssignment_25_26/RobotWriter2025SkeletonCode/build/Debug/outDebug"
+    }
+  ]
+}
