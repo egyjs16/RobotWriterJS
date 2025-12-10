@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 #include "serial.h"
-//#include "rs232.h"
+#include "rs232.h"
 
 
 //#define Serial_Mode

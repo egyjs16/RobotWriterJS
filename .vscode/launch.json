@@ -3,11 +3,22 @@
   "configurations": [
     {
       "name": "C/C++ Runner: Debug Session",
-      "type": "lldb",
+      "type": "cppdbg",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/gmartinezarellano/Library/CloudStorage/OneDrive-TheUniversityofNottingham/Teaching/2025-2026/MMME_3085/SoftwareAssignment/ProjectPlanningAssignment_25_26/RobotWriter2025SkeletonCode",
-      "program": "/Users/gmartinezarellano/Library/CloudStorage/OneDrive-TheUniversityofNottingham/Teaching/2025-2026/MMME_3085/SoftwareAssignment/ProjectPlanningAssignment_25_26/RobotWriter2025SkeletonCode/build/Debug/outDebug"
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/jws06/OneDrive - The University of Nottingham/Desktop/University Work/Year 4/3085 Computer Engineering and Mechatronics/Software Project/RobotWriter2025/RobotWriter2025/RobotWriterJS",
+      "program": "c:/Users/jws06/OneDrive - The University of Nottingham/Desktop/University Work/Year 4/3085 Computer Engineering and Mechatronics/Software Project/RobotWriter2025/RobotWriter2025/RobotWriterJS/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
     }
   ]
 }
